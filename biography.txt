@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. What is your name? Anne Marie Strickland
+2. Why are you interested in Data Science?  As a naturally curious person, I enjoy solving problems and coming up with creative soltions.  I am drawn to the impact analyzing data has on businesses all across the world and want to be directly apart of the movement.
+3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how? I have experiences programming mostly in SAS.  I have taken programming classes on SAS and a few courses that have touched on R.  I do not currently use programming "on the job" as I am currently a full time student.
+4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how? I took several undergraduate and graduate courses in statistics at NC State University.  In these classes we used SAS for our programming.  I do not currently use statistics on the job (full-time student).
+5.  Do you have other experience with R or Python?  I have some experience with R in an academic setting but do not have any Python experience.
+6.  What do you hope to learn in this class? I hope to get familiar and comfortable with GitHub, R and Python.  I am excited to learn 2 additional languages and learning more about programming in data science.
+7.  Is there anything else you would like to share with us? Looking forward to a great semester with everyone.
